@@ -17,8 +17,7 @@ This project is about data exploration and analysis of Covid dataset using SQL q
 [Covid Data Analysis - Tableau Dashboard](https://public.tableau.com/app/profile/namrata.joshi/viz/CovidDeathsandVaccinations_16805509679640/Dashboard1#1)
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Dashboard 1](https://user-images.githubusercontent.com/128434472/229930146-8dda3a0d-5496-40b8-ab31-f97552db20fa.png)
 
 ## Lessons Learned
 * Understanding the data and it's components first is helpful before starting to clean and analyze it.
